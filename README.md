@@ -1,6 +1,6 @@
 # SvgTrick1
 *😁 This is my Trick1 with SVG*
-- [Demo Project](https://github.com/masoomi1396/SvgTrick1)
+- [Demo Project](https://masoomi1396.github.io/SvgTrick1/)
 - Developed by Amirmohammad Masoumi
 - Created - 2023-07-18
 - 🤖 Technologies Used - Html , Css
